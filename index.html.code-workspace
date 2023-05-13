@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../AWS Cloud Formation"
+		},
+		{
+			"path": "../../../test de performance"
+		},
+		{
+			"path": "../../../Atos/EcoAct ECLR - Technique/Implémentation/Batch Job Definition"
+		}
+	],
+	"settings": {
+		"editor.maxTokenizationLineLength": 100000
+	}
+}
